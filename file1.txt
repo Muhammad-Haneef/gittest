@@ -1,3 +1,6 @@
 this is my new file 
 
 this editing for commit 2
+
+
+this is what i am adding
